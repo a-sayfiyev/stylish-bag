@@ -1,0 +1,94 @@
+.header {
+  background-color: #2f2f2f;
+  padding-top: 3rem;
+  height: 8rem;
+}
+
+.logo {
+  font-size: 3.071rem;
+  color: #ffffff6b;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: url("https://s3.amazonaws.com/usefulangle/news/95-5f6cc1ad5575e.jpg");
+  font-weight: 700;
+}
+
+.main-nav {
+  gap: 9rem;
+}
+
+.nav-list {
+  list-style: none;
+  gap: 4rem;
+}
+
+.nav-link,
+.nav-link:link {
+  color: #fff;
+  font-size: 1.6rem;
+  opacity: 0.6;
+}
+
+.nav-link:active {
+  opacity: 1;
+}
+
+.hero {
+  background-color: #2f2f2f;
+}
+
+.box {
+  /* gap: 6.7rem; */
+}
+
+.hero-content-paragraph {
+  font-size: 2rem;
+  line-height: 3rem;
+  color: #f59b00;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  padding: 1rem 0;
+}
+
+.heading-primary {
+  font-size: 6.1rem;
+  line-height: 7.93rem;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 2.5rem;
+}
+
+.hero-content {
+  position: relative;
+}
+
+.heading-primary span {
+  color: #ffffff80;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: url("https://s3.amazonaws.com/usefulangle/news/95-5f6cc1ad5575e.jpg");
+}
+
+.hero-description {
+  font-size: 1.5rem;
+  line-height: 2.65rem;
+  color: #fff;
+  opacity: 0.7;
+  margin-bottom: 3.5rem;
+}
+
+.join-shop {
+  width: 14rem;
+}
+
+.hero-img img {
+  height: 72.1rem;
+  position: relative;
+  left: 14.4rem;
+}
+
+.hero-discount {
+  position: absolute;
+  right: 0;
+}
